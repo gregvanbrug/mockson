@@ -51,6 +51,9 @@ Open your browser to http://localhost:3000
 
 Editing any of the files in ./test will rebuild the application to ./tmp.
 
+## Roadmap
+* Add mongoDB for CRUD operations
+
 ## Releases
 * 0.0.1
   Initial Release
