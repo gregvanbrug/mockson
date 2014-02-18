@@ -16,6 +16,10 @@ var beerApp = angular.module('beerApp', ['ngRoute'])
                 controller: 'BeerController',
                 templateUrl: 'assets/templates/beer.html'
             }).
+            when('/whiskies', {
+                controller: 'WhiskiesController',
+                templateUrl: 'assets/templates/whiskies.html'
+            }).
             otherwise({
                 redirectTo: '/'
             });
