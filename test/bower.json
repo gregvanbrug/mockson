@@ -1,0 +1,21 @@
+{
+  "name": "mock",
+  "version": "0.0.1",
+  "author": {
+    "name": "Greg van Brug",
+    "email": "greg.vanbrug@gmail.com",
+    "url": "http://gregvanbrug.com"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.2.13",
+    "angular-route": "~1.2.9",
+    "normalize-css": "~2.1.3"
+  },
+  "devDependencies": {
+  }
+}

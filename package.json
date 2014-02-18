@@ -1,0 +1,34 @@
+{
+  "name": "mock",
+  "projectName": "Mock",
+  "description": "A mock server for serving static JSON files",
+  "version": "0.0.1",
+  "author": {
+    "name": "Greg van Brug",
+    "email": "greg.vanbrug@gmail.com",
+    "url": "http://gregvanbrug.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gregvanbrug/mockson.git"
+  },
+  "dependencies": {
+    "colors": "~0.6.2",
+    "express": "~3.4.7",
+    "fs-extra": "~0.8.1",
+    "glob": "~3.2.8",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-autoprefixer": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-less-imports": "latest",
+    "matchdep": "latest"
+  }
+}
