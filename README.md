@@ -4,10 +4,6 @@
 
 A mock server for simulating a REST service with static JSON files.
 
-## Installing
-
-    npm install
-
 ## Configuration
 
 The only file you should need to update is the config.js file.
