@@ -41,6 +41,8 @@ When the server starts, all bootstrapped data is copied to a data directory insi
 ### Running the Application
 
     cd test && bower install && cd ../
+    npm install
+    grunt
     node src/server.js
 
 Open your browser to http://localhost:3000
